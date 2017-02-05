@@ -21,7 +21,7 @@ public class INILineTokenizer {
 			throw new Exception( "Invalid line format in INI file." ); 
 		}
 		
-		Pair< String, String > p1 = new Pair< String, String >( first, second ); 
+		Pair< String, String > p1 = new Pair< String, String >( first, second ); //test test
 		return p1;
 
 	}
