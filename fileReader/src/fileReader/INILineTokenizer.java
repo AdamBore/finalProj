@@ -10,9 +10,9 @@ public class INILineTokenizer {
 		this.tokens = tokens;
 	}
 
-	public Pair<String, String> TokenizeLine(String _line) throws Exception {
+	public Pair<String, String> TokenizeLine(Object object) throws Exception {
 
-		StringTokenizer st = new StringTokenizer( _line, tokens );
+		StringTokenizer st = new StringTokenizer( tokens );
 		
 		String first = st.nextToken();
 		String second = st.nextToken();

@@ -417,3 +417,18 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.equinox.security 1 0 2017-02-05 10:32:07.596
 !MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.jdt.launching 4 150 2017-02-05 10:40:51.313
+!MESSAGE The project: Pair which is referenced by the classpath, does not exist.
+
+!ENTRY org.eclipse.jdt.launching 4 150 2017-02-05 10:41:08.147
+!MESSAGE The project: Pair which is referenced by the classpath, does not exist.
+
+!ENTRY org.eclipse.jdt.launching 4 150 2017-02-05 10:41:59.713
+!MESSAGE The project: Pair which is referenced by the classpath, does not exist.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-02-05 10:53:18.430
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-02-05 10:53:18.435
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
