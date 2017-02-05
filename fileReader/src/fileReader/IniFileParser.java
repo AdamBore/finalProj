@@ -1,6 +1,5 @@
 package fileReader;
 
-import java.util.HashMap;
 import java.util.List;
 
 public class IniFileParser extends FileParser {
@@ -10,10 +9,9 @@ public class IniFileParser extends FileParser {
 		// TODO Auto-generated constructor stub
 	}
 
-	public HashMap< String, String> GetParameters() throws Exception
+	public List GetParameters() throws Exception
 	{
-		List lines = (List) LineReader.GetLines( sourceFile );
-		
+		return (List) LineReader.GetLines( sourceFile );
 		
 	}
 }

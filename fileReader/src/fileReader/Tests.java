@@ -4,7 +4,7 @@ public class Tests {
 
 	public static void main(String[] args) {
 		try {
-			IniFileParser fr = new IniFileParser( "c:\\lala.txt" );
+			IniFileParser fr = new IniFileParser( "c:\\lala.txt" ); //none existing file for test purpose
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

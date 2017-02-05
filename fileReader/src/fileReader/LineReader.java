@@ -21,9 +21,7 @@ public class LineReader {
 		while( line != null ){
 			lines.add( line );
 		}
-		
-		
-		
+
 		
 		try
 		{
