@@ -1,0 +1,8 @@
+package fileReader;
+
+public class LineTokenizer {
+	public static pair<String, String> TokenizeLine( String _line )
+	{
+		
+	}
+}

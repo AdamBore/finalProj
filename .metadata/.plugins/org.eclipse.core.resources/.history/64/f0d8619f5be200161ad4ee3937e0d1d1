@@ -1,0 +1,7 @@
+package tester;
+
+public class MainTest {
+	String s1 = "Hello = World"; 
+	StringTokenizerTest st = null; 
+	st.TokenizeString( s1 ); 
+}

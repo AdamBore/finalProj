@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="UserManager"/>
+<fullyQualifiedTypeName name="SystemUser"/>
+<fullyQualifiedTypeName name="Security"/>
+<fullyQualifiedTypeName name="MySQLDatabaseConnector"/>
+<fullyQualifiedTypeName name="DatabaseConnector"/>
+<fullyQualifiedTypeName name="MySQLConnector"/>
+<fullyQualifiedTypeName name="fileReader.FileReader"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="fileReader.LineReader"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="tester.StringTokenizerTest"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>

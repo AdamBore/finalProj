@@ -1,0 +1,12 @@
+package fileReader;
+
+import java.util.StringTokenizer;
+
+public class LineTokenizer {
+	
+	public Pair<String, String> TokenizeLine(String _line) {
+		
+		StringTokenizer st = new StringTokenizer( "=" ); 
+		
+	}
+}

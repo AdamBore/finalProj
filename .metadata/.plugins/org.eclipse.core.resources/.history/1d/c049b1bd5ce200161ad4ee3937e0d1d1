@@ -1,0 +1,14 @@
+package tester;
+
+public class MainTest {
+	public MainTest() {
+		String s1 = "Hello = World"; 
+		StringTokenizerTest str = new StringTokenizerTest( "=" );
+		str.TokenizeString( s1 );
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package tester;
+
+public class MainTest {
+	public MainTest() {
+		String s1 = "Hello = World"; 
+		StringTokenizerTest str = new StringTokenizerTest( "=" );
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	
+	
+}
