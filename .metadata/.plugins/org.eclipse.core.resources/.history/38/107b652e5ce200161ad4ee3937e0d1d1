@@ -1,9 +1,0 @@
-package tester;
-
-public class MainTest {
-	String s1 = "Hello = World"; 
-	StringTokenizerTest st = new StringTokenizerTest( "=" );
-	st.TokenizeString( s1 ); 
-	
-	
-}
